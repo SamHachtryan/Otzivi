@@ -1,0 +1,13 @@
+section {
+	background-color: #637887;
+	height: 100vh;
+	background-size: cover;
+	display: flex;
+}
+
+
+
+.card {
+	display: flex!important;
+	background-color: red;
+}
